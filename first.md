@@ -18,3 +18,5 @@
 ## Заголовок Mortal Combat
 
 Что-нибудь пишем для Mortal Combat 
+
+Vetka Airat
